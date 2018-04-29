@@ -7,7 +7,6 @@
   *::after{box-sizing:border-box;}
   body{
     height:100vh;
-    border:1px solid red;
     display:flex;
     justify-content:center;
     align-items:center;
@@ -15,7 +14,6 @@
   .wrapper{
     width:100vw;
     height:245px;
-    border:1px solid red;
     position:relative;
   }
   .upperFace{
